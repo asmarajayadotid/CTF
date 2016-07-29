@@ -6,7 +6,7 @@ with open('cipher.txt','r') as f:
 flag = ''
 
 for number in numbers:
-    if len(number) > 4:
+    if len(number) >= 6:
         flag += chr(int(number, 2))
     elif number[0] == '0':
         flag += chr(int(number, 8))
