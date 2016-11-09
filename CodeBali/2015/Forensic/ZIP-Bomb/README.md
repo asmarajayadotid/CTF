@@ -1,3 +1,0 @@
-# Deskripsi
--
-ZIP BOMB
