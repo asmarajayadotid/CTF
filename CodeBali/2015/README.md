@@ -1,46 +1,45 @@
 # Code Bali CTF 2015
-Soal-soal Code Bali CTF 2015
-├── Crypto__
+Soal-soal Code Bali CTF 2015<br />
+├── Crypto<br />
 │   ├── Cipher<br />
-│   │   └── README.md
-│   ├── README.md
-│   └── Sherlock
-│       ├── crypto.py
-│       ├── msg001.enc
-│       ├── msg002.enc
-│       └── README.md
-├── Forensic
-│   ├── Ora-Iso
-│   │   └── ora.rar
-│   ├── README.md
-│   ├── What-The-Flag
-│   │   └── What The Flag.7z
-│   └── ZIP-Bomb
-│       └── test.rar
-├── Joy
-│   ├── Joy
-│   │   ├── joy.png
-│   │   └── README.md
-│   ├── Labyrinth
-│   │   ├── labyrinth.rar
-│   │   └── README.md
-│   ├── README.md
-│   ├── Shooting
-│   │   ├── README.md
-│   │   └── shooting.rar
-│   └── StreetView
-│       ├── README.md
-│       └── Streetview.7z
-├── README.md
-├── Reverse
-│   ├── one_does_symply
-│   └── README.md
-└── Stegano
-    ├── Nha13
-    │   └── nha_13.rar
-    ├── QRGB
-    │   └── QRGB.zip
-    ├── README.md
-    └── Use-It-Please
-        └── useitplease.rar
-
+│   │   └── README.md<br />
+│   ├── README.md<br />
+│   └── Sherlock<br />
+│       ├── crypto.py<br />
+│       ├── msg001.enc<br />
+│       ├── msg002.enc<br />
+│       └── README.md<br />
+├── Forensic<br />
+│   ├── Ora-Iso<br />
+│   │   └── ora.rar<br />
+│   ├── README.md<br />
+│   ├── What-The-Flag<br />
+│   │   └── What The Flag.7z<br />
+│   └── ZIP-Bomb<br />
+│       └── test.rar<br />
+├── Joy<br />
+│   ├── Joy<br />
+│   │   ├── joy.png<br />
+│   │   └── README.md<br />
+│   ├── Labyrinth<br />
+│   │   ├── labyrinth.rar<br />
+│   │   └── README.md<br />
+│   ├── README.md<br />
+│   ├── Shooting<br />
+│   │   ├── README.md<br />
+│   │   └── shooting.rar<br />
+│   └── StreetView<br />
+│       ├── README.md<br />
+│       └── Streetview.7z<br />
+├── README.md<br />
+├── Reverse<br />
+│   ├── one_does_symply<br />
+│   └── README.md<br />
+└── Stegano<br />
+    ├── Nha13<br />
+    │   └── nha_13.rar<br />
+    ├── QRGB<br />
+    │   └── QRGB.zip<br />
+    ├── README.md<br />
+    └── Use-It-Please<br />
+        └── useitplease.rar<br />
